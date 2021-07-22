@@ -1,0 +1,66 @@
+:root{
+    background-color: #fff;
+}
+body{
+    font-family:'Segoe UI', 'Roboto', 'Helvetica Neue';
+    font-size: 1.3rem;
+    line-height: 1.2;
+    text-align: center;
+    color: #333;
+    margin: 0;
+}
+#main{
+    margin: 30px 8px;
+    padding: 15px;
+    border-radius: 5px;
+    background: #eee;
+}
+#title{
+    text-align: center;
+}
+img {
+    max-width: 100%;
+    display: block;
+    height: auto;
+    margin: 0 auto;
+}
+#img-div{
+        justify-items: center;
+        background-color: #fff;
+        padding: 10px;
+        margin: 0;
+}
+figure {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 40px;
+    margin-inline-end: 40px;
+}
+#img-caption {
+    margin: 15px 0 5px 0;
+}
+#tribute-info{
+    margin: 10px 20px;
+    padding: 1vh;
+    text-align: center;
+}
+ul {
+    max-width: 650px;
+    margin: 0 auto 50px auto;
+    text-align: left;
+    line-height: 1.6;
+}
+#card{
+    padding: 1vh;
+    text-align:left;
+}
+h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+}
